@@ -1,6 +1,6 @@
 import React from "react";
 import RevenueChart from "../charts/RevenueChart";
-import SalesChart from "../charts/SAlesChart";
+import SalesChart from "../charts/SalesChart";
 
 function ChartSection() {
   return (
